@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capo.com.hr/sitemap.xml
