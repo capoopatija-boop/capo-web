@@ -1,16 +1,11 @@
-# CAPO Autopraonica — capo.com.hr
+# CAPO – kompletna web stranica
 
-Statička web stranica: početna, sedam usluga, HR/EN/DE/IT sučelje, kontakt i karta.
+Početna stranica i osam SEO članaka, fotografije, mobilni dizajn, HR/EN/DE/IT UI, sitemap i FERIA potpis.
 
-## VAŽNO — prenositi cijelu strukturu, ne samo datoteke iz korijena
-- `index.html`, `style.css`, `app.js`, `robots.txt`, `sitemap.xml`, `README.md`
-- cijelu mapu `assets/` (dvije fotografije i favicon)
-- cijelu mapu `usluge/` (sedam HTML podstranica)
+## Cloudflare Pages
 
-Cloudflare Pages: None framework, build command prazno, output directory root.
+Framework: None. Build command: prazno. Output: root (`/`).
 
-## Prije konačne objave
-- Provjeriti Maps pin za Tošina 16 i točnu lokaciju praonice.
-- Usluge imaju korisne početne SEO tekstove, ali nisu punih 1000–1200 riječi.
-- Hrvatski tekstovi usluga su primarni; jezični prijevodi sučelja postoje, no puni višejezični SEO članci još nisu izrađeni.
-- Potvrditi stvarni opseg postupaka prije detaljnijih tehničkih tvrdnji.
+## Važno
+
+Sadržaj SEO članaka primarno je na hrvatskom; prijevodi navigacije nisu potpuni SEO prijevodi članaka. Prije objave potvrditi stvaran opseg postupaka, osobito tretman ozonom. Provjeriti lokaciju Google Maps i podatke na stranici. Nema cjenika.
