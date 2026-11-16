@@ -81,3 +81,7 @@ body{background:#f7f6f1;color:#1c2920}
 .info-card{padding:20px}
 }
 @media(max-width:370px){.service-photo{height:175px}.service{min-height:175px}}
+
+/* Thin lines framing the FERIA credit, matching BEX */
+.site-credit{display:flex;align-items:center;justify-content:center;gap:13px}
+.site-credit::before,.site-credit::after{content:"";display:block;width:30px;height:1px;background:#73847766;flex:none}
