@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cjenik naziv="CAPO" valuta="EUR" aktualno_od="2026-10-01" bazno_na_dan="2026-09-10">
+<stavka vrsta="Osnovne" naziv="Mala vozila" varijanta="Komplet klasično"><aktualna>32</aktualna><bazna>25</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Mala vozila" varijanta="Komplet premium"><aktualna>50</aktualna><bazna>35</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Mala vozila" varijanta="Vanjsko klasično"><aktualna>16</aktualna><bazna>12</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Mala vozila" varijanta="Vanjsko premium"><aktualna>20</aktualna><bazna>20</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Mala vozila" varijanta="Unutarnje klasično"><aktualna>16</aktualna><bazna>14</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Mala vozila" varijanta="Unutarnje premium"><aktualna>30</aktualna><bazna>20</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Srednja vozila" varijanta="Komplet klasično"><aktualna>35</aktualna><bazna>28</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Srednja vozila" varijanta="Komplet premium"><aktualna>55</aktualna><bazna>38</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Srednja vozila" varijanta="Vanjsko klasično"><aktualna>17</aktualna><bazna>13</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Srednja vozila" varijanta="Vanjsko premium"><aktualna>20</aktualna><bazna>23</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Srednja vozila" varijanta="Unutarnje klasično"><aktualna>18</aktualna><bazna>15</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Srednja vozila" varijanta="Unutarnje premium"><aktualna>35</aktualna><bazna>25</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Velika vozila" varijanta="Komplet klasično"><aktualna>40</aktualna><bazna>30</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Velika vozila" varijanta="Komplet premium"><aktualna>60</aktualna><bazna>50</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Velika vozila" varijanta="Vanjsko klasično"><aktualna>20</aktualna><bazna>15</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Velika vozila" varijanta="Vanjsko premium"><aktualna>30</aktualna><bazna>25</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Velika vozila" varijanta="Unutarnje klasično"><aktualna>20</aktualna><bazna>15</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Velika vozila" varijanta="Unutarnje premium"><aktualna>30</aktualna><bazna>30</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="SUV / minivan" varijanta="Komplet klasično"><aktualna>40</aktualna><bazna>35</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="SUV / minivan" varijanta="Komplet premium"><aktualna>60</aktualna><bazna>50</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="SUV / minivan" varijanta="Vanjsko klasično"><aktualna>20</aktualna><bazna>18</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="SUV / minivan" varijanta="Vanjsko premium"><aktualna>30</aktualna><bazna>27</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="SUV / minivan" varijanta="Unutarnje klasično"><aktualna>20</aktualna><bazna>15</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="SUV / minivan" varijanta="Unutarnje premium"><aktualna>30</aktualna><bazna>30</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Teretna vozila" varijanta="Komplet klasično"><aktualna>45</aktualna><bazna>40</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Teretna vozila" varijanta="Komplet premium"><aktualna>65</aktualna><bazna>60</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Teretna vozila" varijanta="Vanjsko klasično"><aktualna>20</aktualna><bazna>20</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Teretna vozila" varijanta="Vanjsko premium"><aktualna>35</aktualna><bazna nedostupna="true"/></stavka>
+<stavka vrsta="Osnovne" naziv="Teretna vozila" varijanta="Unutarnje klasično"><aktualna>25</aktualna><bazna>25</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Teretna vozila" varijanta="Unutarnje premium"><aktualna>35</aktualna><bazna nedostupna="true"/></stavka>
+<stavka vrsta="Osnovne" naziv="Vozila za prijevoz putnika" varijanta="Komplet klasično"><aktualna>45</aktualna><bazna>40</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Vozila za prijevoz putnika" varijanta="Komplet premium"><aktualna>75</aktualna><bazna>60</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Vozila za prijevoz putnika" varijanta="Vanjsko klasično"><aktualna>20</aktualna><bazna>20</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Vozila za prijevoz putnika" varijanta="Vanjsko premium"><aktualna>35</aktualna><bazna nedostupna="true"/></stavka>
+<stavka vrsta="Osnovne" naziv="Vozila za prijevoz putnika" varijanta="Unutarnje klasično"><aktualna>25</aktualna><bazna>25</bazna></stavka>
+<stavka vrsta="Osnovne" naziv="Vozila za prijevoz putnika" varijanta="Unutarnje premium"><aktualna>40</aktualna><bazna nedostupna="true"/></stavka>
+<stavka vrsta="Dodatne" naziv="Poliranje vozila" varijanta="Klasično"><aktualna>300</aktualna><bazna>200</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Poliranje vozila" varijanta="Premium"><aktualna>600</aktualna><bazna>500</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Dubinsko čišćenje sjedala" varijanta="Klasično"><aktualna>180</aktualna><bazna>150</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Dubinsko čišćenje sjedala" varijanta="Premium"><aktualna>300</aktualna><bazna>300</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Čišćenje kožnih sjedala" varijanta="Klasično"><aktualna>150</aktualna><bazna>150</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Čišćenje kožnih sjedala" varijanta="Premium"><aktualna>300</aktualna><bazna>300</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Skidanje smole (glinom)" varijanta="Klasično"><aktualna>100</aktualna><bazna>120</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Skidanje smole (glinom)" varijanta="Premium"><aktualna>350</aktualna><bazna>300</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Zaštitni premaz kožnih sjedala" varijanta="Klasično"><aktualna>120</aktualna><bazna>70</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Zaštitni premaz kožnih sjedala" varijanta="Premium"><aktualna>250</aktualna><bazna>120</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Dubinsko čišćenje dječje sjedalice" varijanta="Klasično"><aktualna>30</aktualna><bazna>30</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Dubinsko čišćenje dječje sjedalice" varijanta="Premium"><aktualna>50</aktualna><bazna>50</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Uklanjanje smole / katrana" varijanta="Klasično"><aktualna>50</aktualna><bazna>100</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Uklanjanje smole / katrana" varijanta="Premium"><aktualna>350</aktualna><bazna>250</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Pranje motora" varijanta="Klasično"><aktualna>20</aktualna><bazna>15</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Pranje motora" varijanta="Premium"><aktualna>50</aktualna><bazna>50</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Dodatno čišćenje alu felgi (po kom.)" varijanta="Klasično"><aktualna>10</aktualna><bazna>2</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Dodatno čišćenje alu felgi (po kom.)" varijanta="Premium"><aktualna>30</aktualna><bazna>5</bazna></stavka>
+<stavka vrsta="Dodatne" naziv="Skidanje naljepnica i ljepila" varijanta="Klasično"><aktualna>150</aktualna><bazna nedostupna="true"/></stavka>
+<stavka vrsta="Dodatne" naziv="Skidanje naljepnica i ljepila" varijanta="Premium"><aktualna>1000</aktualna><bazna nedostupna="true"/></stavka>
+<stavka vrsta="Ostale" naziv="Pranje vozila s dolaskom na lokaciju" varijanta="Ovisno o vozilu"><aktualna>40</aktualna><bazna>30</bazna></stavka>
+</cjenik>
