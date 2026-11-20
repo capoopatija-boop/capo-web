@@ -85,3 +85,6 @@ body{background:#f7f6f1;color:#1c2920}
 /* Thin lines framing the FERIA credit, matching BEX */
 .site-credit{display:flex;align-items:center;justify-content:center;gap:13px}
 .site-credit::before,.site-credit::after{content:"";display:block;width:30px;height:1px;background:#73847766;flex:none}
+
+/* Cjenik footer */
+.capo-dl{padding:20px 24px;border-bottom:1px solid #ffffff24}.capo-dl>a{font-size:13px;color:#b9caac;text-decoration:underline;text-underline-offset:3px}.capo-dl-icons{display:flex;flex-wrap:wrap;gap:18px;margin-top:9px}.capo-dl-icons a{font-size:13px;font-weight:700;color:#91c2fb}.capo-dl a:hover{color:white}.capo-cjenik{padding:40px 24px}.capo-overflow{overflow-x:auto;margin:20px 0}.capo-table{border-collapse:collapse;width:100%;min-width:680px;font-size:13px}.capo-table th,.capo-table td{border:1px solid #cbd4c4;padding:8px;text-align:center}.capo-table th:first-child{text-align:left}.capo-table thead{background:#e6eddf}.capo-table tbody tr:nth-child(even){background:#f0f3ec}.capo-table small{color:#647263}.capo-cjenik p{line-height:1.65}
